@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.App--layout {
+  background-color: #0080ff;
+  padding-top: 15vh;
+  height: 100vh;
+}
+
+.App--container {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+  height: 70vh;
+  width: 70vw;
+  margin: auto;
+}
+
+.App--title {
+  text-decoration: underline;
+}
